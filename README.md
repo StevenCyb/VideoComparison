@@ -24,6 +24,7 @@ In addition, the following is assumed:<br>
 - a != b != c
 - a ~ aa
 - b == b
+
 In this case the file with the results could look like this (but without spaces):<br>
 ```
 Video-A;                     Video-B;                           Consistency
